@@ -1,0 +1,41 @@
+table{
+    font-size:18px;
+    background-color:rgb(219, 188, 255);
+  }
+  .first{
+    background-color:palevioletred;
+  }
+  .second{
+    background-color: lightpink;
+  }
+  .h1{font-family: Arial, Helvetica, sans-serif;
+  color: white;}
+  #pic1 {
+    border-style: double;
+  }
+  #pic2 {
+    border-style:dotted;
+  }
+  .h4{
+    font-family:inherit;
+    font-size:10px;
+    color: white;
+  }
+  .one{
+    color:lightseagreen
+  }
+  .two{
+    color:rgb(8, 174, 196)
+  }
+  .three{
+    color:olive
+  }
+  .five{
+    color:teal
+  }
+  .six{
+    color: purple;
+  }
+  .h3{
+    color: white;
+  }
